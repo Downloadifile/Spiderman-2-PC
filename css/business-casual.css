@@ -11,7 +11,7 @@ body {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    user-select: none;
+   
     overflow-x: hidden;
 }
 
@@ -24,14 +24,14 @@ h6 {
     font-family: IRANSANSDN;
     font-weight: 700;
     letter-spacing: 1px;
-    user-select: none;
+
 }
 
 
 hr {
     max-width: 400px;
     border-color: #999999;
-    user-select: none;
+  
 }
 
 .brand,
@@ -52,7 +52,7 @@ hr {
     text-transform: uppercase;
     font-weight: 400;
     letter-spacing: 0px;
-    user-select: none;
+
 }
 
 .img-full {
@@ -77,14 +77,14 @@ hr {
     margin: 15px auto 3px;
     max-width: 250px;
     border-color: #999999;
-    user-select: none;
+  
 }
 
 .box {
     margin-bottom: 20px;
     padding: 30px 8px;
     background: #121b22;
-    user-select: none;
+;
     border-radius: 7px;
 }
 
@@ -93,14 +93,14 @@ hr {
     font-size: 1.25em;
     font-weight: 400;
     letter-spacing: 1px;
-    user-select: none;
+
 }
 
 .img-border {
     float: none;
     margin: 0 auto 0;
     border: #999999 solid 1px;
-    user-select: none;
+
 }
 
 .img-left {
@@ -167,7 +167,7 @@ footer p {
         font-weight: 700;
         line-height: normal;
         color: #fff;
-        user-select: none;
+      
     }
       
     img{ 
@@ -253,7 +253,7 @@ h2{
     color: rgb(255, 255, 255);
     line-height: 0px;
     text-align: center;
-    user-select: none;
+
     height: 7px;
     margin-top: 14px;
     margin-bottom: 14px;
@@ -268,7 +268,7 @@ h2{
     }
     body {
   direction: rtl;
-  user-select: none;
+
    }
 
    .container{
@@ -435,7 +435,7 @@ p9{
 }
 
 h18{
-    user-select: none;
+
     width: 100%;
     font-size: 28px;
     font-family: lalezar;
@@ -451,11 +451,11 @@ h18{
 img{
     border-radius: 30px;
     margin: 25px ;
-   user-select: none;
+  
 }
 
 .alert-txto{
-    user-select: none;
+    
     font-size: 21px;
     font-family: bold,IRANSANSDN;
     direction: rtl;
